@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nader Fares</h1>
-<h3 align="center">I'm a Web Developer in Brazil</h3>
+<h3 align="center">I'm a Software Developer in Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naderfares16&label=Profile%20views&color=0e75b6&style=flat" alt="naderfares16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naderfares16" alt="naderfares16" /></a> </p>
 
-- 🔭 I’m currently working on [Nader's Corporation Project](https://github.com/NaderFares16/naderscorporation)
+- 🔭 I’m currently working on [Local Projects](https://github.com/NaderFares16?tab=repositories)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaderFares16](https://github.com/NaderFares16)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **JavaScript, SQL, Python**
 
 - 📫 How to reach me **naderalifares16@hotmail.com**
 
