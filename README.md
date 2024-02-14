@@ -1,33 +1,23 @@
-<h1 align="center">Hi 👋, I'm Nader Fares</h1>
-<h3 align="center">I'm a Software Developer in Brazil</h3>
+# Nader Fares 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naderfares16&label=Profile%20views&color=0e75b6&style=flat" alt="naderfares16" /> </p>
+Computer Science Student @ UNiRP.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naderfares16" alt="naderfares16" /></a> </p>
+[![Twitter Badge](https://img.shields.io/badge/-@NaderAliFares-0fa3b1?style=flat-square&labelColor=0fa3b1&logo=twitter&logoColor=white&link=https://twitter.com/NaderAliFares)](https://twitter.com/NaderAliFares) 
+[![Linkedin Badge](https://img.shields.io/badge/-Nader%20Fares-0fa3b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nader-ali-fares/)](https://www.linkedin.com/in/nader-ali-fares/) 
+[![Microsoft Badge](https://img.shields.io/badge/-naderalifares16@hotmail.com-0fa3b1?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:naderalifares16@hotmail.com)](mailto:naderalifares16@hotmail.com)
 
-- 🔭 I’m currently working on [Local Projects](https://github.com/NaderFares16?tab=repositories)
+### About Me
 
-- 🌱 I’m currently learning **Python and Java**
+I am a passionate about technology and its potential to enhance various aspects of our world.
 
-- 👨‍💻 All of my projects are available at [https://github.com/NaderFares16](https://github.com/NaderFares16)
+### Skills & Expertise
 
-- 💬 Ask me about **JavaScript, SQL, Python**
+__Programming Languages__: JavaScript, TypeScript, Python, SQL and Dart.
 
-- 📫 How to reach me **naderalifares16@hotmail.com**
+__Front-End Development__: HTML, CSS, TailwindCSS, ReactJS, NextJS and Bootstrap.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naderalifares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naderalifares" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naderalifares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naderalifares" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21328940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21328940" height="30" width="40" /></a>
-<a href="https://instagram.com/naderalifares_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naderalifares_" height="30" width="40" /></a>
-</p>
+__Back-End Development__: NodeJS and PrismaORM.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### Open to Opportunities
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naderfares16&show_icons=true&locale=en&layout=compact" alt="naderfares16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naderfares16&show_icons=true&locale=en" alt="naderfares16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naderfares16&" alt="naderfares16" /></p>
+I'm on the lookout for opportunities to learn, grow, and lend my skills to meaningful projects. If you're in need of a dedicated individual, feel free to reach out! Let's chat!
